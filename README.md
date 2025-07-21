@@ -6,7 +6,7 @@ Stay up to date on the medical research that matters to you with this AI tool, w
 For instance, here are sample summaries for various topics sourced from June-July 2025:
 
 - [Hip osteoarthritis](examples/07-20-2025_hip%20osteoarthritis_summary.md)
-- [Parkinson's disease](examples/07-20-2025_Parkinsons%20disease_summary.md)
+- [Parkinson's disease](examples/07-20-2025_parkinsons_disease_summary.md)
 - [Diabetic polyneuropathy](examples/07-20-2025_diabetic%20polyneuropathy_summary.md)
 - [Systemic sclerosis](examples/07-20-2025_systemic%20sclerosis_summary.md)
 - [Carpal tunnel syndrome](examples/07-20-2025_carpal%20tunnel%20syndrome_summary.md)
